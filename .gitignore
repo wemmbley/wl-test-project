@@ -3,6 +3,6 @@
 /*/
 !wp-content
 wp-content/*
-!wp-content/plugins
-wp-content/plugins/*
-!wp-content/plugins/hello-world
+!wp-content/themes
+wp-content/themes/*
+!wp-content/themes/wl-test-theme
